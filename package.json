@@ -1,0 +1,20 @@
+{
+  "name": "Week8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrsperrey/Week8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrsperrey/Week8/issues"
+  },
+  "homepage": "https://github.com/lrsperrey/Week8#readme"
+}
